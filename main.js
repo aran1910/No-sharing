@@ -5,13 +5,13 @@
 
 
 // Config Varibles
-const token = 'NzM2Mjk0NjYwNDE4NDM3MTgw.Xxst1g.aEbZsS1jfM0sfXvkVldDvWHz-SM'; // The token that the bot uses to login to Discord
+const token = 'enter your token here'; // The token that the bot uses to login to Discord
 const prefix = ';'; // The prefix that bot listens to when it listens for commands
-const cookie = '_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_6990DD5228B5E460F39E728F616B5B5634ED25A02CDC0D43DE55ADFEE1BE707BE67B927CAB3B0D5DE978116E768BD700E97B757FDA8CBC4DA059D76E6BB150B6CBA915B17703C45183E4D3CFAA1B8DE075CED5C536C35DED06B28ED359A9934AA4637F2346D55920B301D146A3E959D23D1D0F872E3DBD1D0CDFF1107D31E1154F52168ED8F1CA287E3E72E969224D653B3A1F5E2D842331094C428DE92AD3FD0A7E54FDC895EE2396040DFCD0BF96304FAC53D5F7B610EA5FDA75FFD89F8E4D5F7B4C36DDF28A58EAA118A64A827A20751332BD0BDCDE40DDDEA77352DF2E971122E558DE43DB5921C628F69BBD60AD5EFBD5343EBAC8049A24C5A1501A8CC86CBDEA0FCB1476398E95534712D113450E82992D54A4935CD85BADBA1435E666FE50D667DD115AFC12833F67CD8EFB284DF08581';
-const username = 'TheUglyDeveloper'; // The username that the bot uses to login to Roblox, only used if the cookie isn't valid
-const password = 'Password1987'; // The password that the bot uses to login to Roblox, only used if the cookie isn't valid
-const groupid = 7121097; // The group that the bot manages. Change 1 to your group id
-const maximumRank = 25; // The maximum rank that the bot can rank to. Change 1 to your maxium rank
+const cookie = 'enter bot account cookie here';
+const username = 'username for bot account'; // The username that the bot uses to login to Roblox, only used if the cookie isn't valid
+const password = 'password for bot account'; // The password that the bot uses to login to Roblox, only used if the cookie isn't valid
+const groupid = 1234567; // The group that the bot manages. Change 1 to your group id
+const maximumRank = 123; // The maximum rank that the bot can rank to. Change 1 to your maxium rank
 const command = 'whitelist'; // The command that the bot listens to. This must be lowercase
 const whitelistedRole = 'Whitelist Token'; // The role the can use the command
 const command2 = 'blacklist';
